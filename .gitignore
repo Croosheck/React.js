@@ -1,0 +1,14 @@
+**/node_modules/
+dist
+.parcel-cache
+**/.env
+debugging
+01-starting-project/
+01-starting-setup/
+02-starting-project/
+03-starting-project/
+04-starting-project (redux)/
+05-starting-project (redux 2)/
+06-routing-practice/
+useReducer-todo-example/
+personal-portfolio
